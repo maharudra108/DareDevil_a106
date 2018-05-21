@@ -3,6 +3,8 @@
 ![Daredevil](http://s24.postimg.org/snrt08gut/image.png "Daredevil Kernel logo")
 
 # Kernel compatible roms:
+  
+  * Halium OS 7.1 Unofficial (los-14.1)
 
   * Lineage OS 13.0 Unofficial
   
