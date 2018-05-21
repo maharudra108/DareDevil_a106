@@ -4,6 +4,8 @@
 
 # Kernel compatible roms:
 
+  * Halium OS 7.1 Unofficial
+
   * Lineage OS 13.0 Unofficial
   
   * Lineage OS 14.1 Unofficial
